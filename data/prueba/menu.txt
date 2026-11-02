@@ -1,0 +1,4 @@
+corral;14000
+papas;5500
+
+gaseosa;5000

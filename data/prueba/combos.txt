@@ -1,0 +1,2 @@
+combo corral;10%;corral;papas;gaseosa
+combo sencillo;7%;corral;papas
